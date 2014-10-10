@@ -1,6 +1,5 @@
 //colors.inc
 //==========
-//
 //colors.inc one of samp colors include 
 //IDarkness Colors inc
 #define COLOR_WHITE 0xFFFFFFAA
